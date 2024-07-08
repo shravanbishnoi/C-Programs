@@ -23,13 +23,15 @@ C is a powerful, general-purpose programming language. It is fast, efficient, an
 
 Here is a list of some of the key programs included in this repository:
 
-- **Hello World**: The classic first program.
-- **Basic I/O Operations**: Simple input and output operations.
-- **Control Structures**: Programs demonstrating loops and conditionals.
-- **Functions and Recursion**: Examples of function usage and recursive algorithms.
-- **Data Structures**: Implementation of arrays, linked lists, stacks, queues, and more.
-- **Algorithms**: Sorting algorithms, searching techniques, and other problem-solving approaches.
-- **File Handling**: Programs that demonstrate file operations in C.
+- **FindMinimum**: Finds minimum element index in an array of integers.
+- **GCD**: Calculates GCD of two integers.
+- **IsPalindrome**: Prints if the String is Palindrome OR not.
+- **IsPrime**: Prints whether an input integer is prime number.
+- **LongestWordInString**: Prints the length of longest word in a input String.
+- **OddEven**: Checks whether an input integer is Odd OR Even.
+- **SumOfDigits**: Prints sum of digits of an input integer.
+- **LinearSearch**: Prints index at which the key element is present in an integer array.
+- **9.CountInArray**: Prints number of times an element is occuring in an interger array.
 
 
 ## Contributing
