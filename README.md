@@ -36,7 +36,7 @@ Here is a list of some of the key programs included in this repository:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, improvements, or new programs to add, please feel free to fork this repository and create a pull request. Let's learn and grow together!
+Contributions are welcome! If you have any suggestions, improvements, or new programs to add, please feel free to fork this repository and create a pull request. Let's learn and grow together!!
 
 ## Acknowledgements
 
